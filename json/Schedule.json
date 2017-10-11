@@ -1,0 +1,634 @@
+[
+ {
+   "Driver": "A.Areola",
+   "Day": "Monday",
+   "Barangay": "Tubod",
+   "Purok": "Purok Falcata",
+   "Coordinates": [8.2124311, 124.2371569],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "A.Areola",
+   "Day": "Monday",
+   "Barangay": "Tubod",
+   "Purok": "5th East Tubod",
+   "Coordinates": [8.213929, 124.241139],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "A.Areola",
+   "Day": "Monday",
+   "Barangay": "Tubod",
+   "Purok": "6th East Tubod",
+   "Coordinates": [8.212957, 124.241595],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "A.Areola",
+   "Day": "Monday",
+   "Barangay": "Tubod",
+   "Purok": "7th East Tubod",
+   "Coordinates": [8.212779, 124.242011],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "A.Areola",
+   "Day": "Monday",
+   "Barangay": "Tubod",
+   "Purok": "8th East Tubod",
+   "Coordinates": [8.213364, 124.242410],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "A.Areola",
+   "Day": "Monday",
+   "Barangay": "Tubod",
+   "Purok": "9th East Tubod",
+   "Coordinates": [8.212836, 124.242784],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "A.Areola",
+   "Day": "Monday",
+   "Barangay": "Tubod",
+   "Purok": "10th East Tubod",
+   "Coordinates": [8.212793, 124.243154],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "A.Areola",
+   "Day": "Tuesday",
+   "Barangay": "",
+   "Purok": "",
+   "Coordinates": [],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "A.Areola",
+   "Day": "Wednesday",
+   "Barangay": "",
+   "Purok": "",
+   "Coordinates": [],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "A.Areola",
+   "Day": "Thursday",
+   "Barangay": "Tubod",
+   "Purok": "Laville",
+   "Coordinates": [8.211360, 124.241125],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "A.Areola",
+   "Day": "Thursday",
+   "Barangay": "Tubod",
+   "Purok": "Noville",
+   "Coordinates": [8.2111050773508, 124.24224321417],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "A.Areola",
+   "Day": "Thursday",
+   "Barangay": "Tubod",
+   "Purok": "Orellana",
+   "Coordinates": [8.2095444902001, 124.24077979447],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "A.Areola",
+   "Day": "Thursday",
+   "Barangay": "Tubod",
+   "Purok": "Ubhai",
+   "Coordinates": "",
+   "Plate No.": ""
+ },
+ {
+   "Driver": "A.Areola",
+   "Day": "Friday",
+   "Barangay": "Tubod",
+   "Purok": "2nd East Tubod",
+   "Coordinates": [8.216078, 124.240534],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "A.Areola",
+   "Day": "Friday",
+   "Barangay": "Tubod",
+   "Purok": "3rd East Tubod",
+   "Coordinates": [8.215435, 124.240732],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "A.Areola",
+   "Day": "Friday",
+   "Barangay": "Tubod",
+   "Purok": "4th East Tubod",
+   "Coordinates": [8.213060, 124.240710],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "A.Areola",
+   "Day": "Saturday",
+   "Barangay": "Tubod",
+   "Purok": "Carbide Village",
+   "Coordinates": [8.2090294126283, 124.23773241781],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "A.Areola",
+   "Day": "Saturday",
+   "Barangay": "Tubod",
+   "Purok": "Purok Sto. Ni�o",
+   "Coordinates": [8.207262, 124.238686],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "A.Areola",
+   "Day": "Saturday",
+   "Barangay": "Tubod",
+   "Purok": "First East Extension",
+   "Coordinates": [8.214307, 124.237889],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "A.Areola",
+   "Day": "Sunday",
+   "Barangay": "Tubod",
+   "Purok": "Doña Maria Phase 3",
+   "Coordinates": [8.2084630105736, 124.24489730622],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "A.Areola",
+   "Day": "Sunday",
+   "Barangay": "Tubod",
+   "Purok": "Doña Maria Phase 4",
+   "Coordinates": [8.208325, 124.244479],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "A.Areola",
+   "Day": "Sunday",
+   "Barangay": "Tubod",
+   "Purok": "Lluch Compound",
+   "Coordinates": [8.2110536989474, 124.23501880079],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Dianal",
+   "Day": "Monday",
+   "Barangay": "Luinab",
+   "Purok": "Luinab Floraville 1",
+   "Coordinates": [8.245536, 124.269419],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Dianal",
+   "Day": "Monday",
+   "Barangay": "Luinab",
+   "Purok": "Luinab Floraville 2",
+   "Coordinates": [8.246111, 124.269722],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Dianal",
+   "Day": "Monday",
+   "Barangay": "Luinab",
+   "Purok": "Luinab Floraville 3",
+   "Coordinates": [],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Dianal",
+   "Day": "Monday",
+   "Barangay": "Luinab",
+   "Purok": "Luinab Floraville 4",
+   "Coordinates": [8.245556, 124.269722],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Dianal",
+   "Day": "Monday",
+   "Barangay": "Luinab",
+   "Purok": "Luinab Purok 1",
+   "Coordinates": [8.244440, 124.263370],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Dianal",
+   "Day": "Monday",
+   "Barangay": "Luinab",
+   "Purok": "Luinab Purok 2",
+   "Coordinates": [],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Dianal",
+   "Day": "Monday",
+   "Barangay": "Luinab",
+   "Purok": "Luinab Purok 3",
+   "Coordinates": [],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Dianal",
+   "Day": "Monday",
+   "Barangay": "Luinab",
+   "Purok": "Bahayan 6",
+   "Coordinates": [],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Dianal",
+   "Day": "Monday",
+   "Barangay": "Luinab",
+   "Purok": "Bahayan 7",
+   "Coordinates": [],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Dianal",
+   "Day": "Monday",
+   "Barangay": "Luinab",
+   "Purok": "Bahayan 8",
+   "Coordinates": [],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Dianal",
+   "Day": "Tuesday",
+   "Barangay": "Luinab",
+   "Purok": "Upper Hinaplanon",
+   "Coordinates": [8.255822, 124.268952],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Dianal",
+   "Day": "Wednesday",
+   "Barangay": "Luinab",
+   "Purok": "Upper Luinab",
+   "Coordinates": [8.2453255331451, 124.27321538906],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Dianal",
+   "Day": "Wednesday",
+   "Barangay": "Luinab",
+   "Purok": "Sombuyan",
+   "Coordinates": [8.244259, 124.271673],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Dianal",
+   "Day": "Wednesday",
+   "Barangay": "Luinab",
+   "Purok": "Bahayan caritas",
+   "Coordinates": [8.248333, 124.272222],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Dianal",
+   "Day": "Wednesday",
+   "Barangay": "Luinab",
+   "Purok": "Bahayan Phase 5",
+   "Coordinates": [8.22667, 124.242],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Dianal",
+   "Day": "Thursday",
+   "Barangay": "Luinab",
+   "Purok": "Luinab Floraville 1",
+   "Coordinates": [8.245536, 124.269419],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Dianal",
+   "Day": "Thursday",
+   "Barangay": "Luinab",
+   "Purok": "Luinab Floraville 2",
+   "Coordinates": [8.246111, 124.269722],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Dianal",
+   "Day": "Thursday",
+   "Barangay": "Luinab",
+   "Purok": "Luinab Floraville 3",
+   "Coordinates": [],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Dianal",
+   "Day": "Thursday",
+   "Barangay": "Luinab",
+   "Purok": "Luinab Floraville 4",
+   "Coordinates": [8.245556, 124.269722],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Dianal",
+   "Day": "Thursday",
+   "Barangay": "Luinab",
+   "Purok": "Luinab Purok 1",
+   "Coordinates": [8.244440, 124.263370],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Dianal",
+   "Day": "Thursday",
+   "Barangay": "Luinab",
+   "Purok": "Luinab Purok 2",
+   "Coordinates": [],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Dianal",
+   "Day": "Thursday",
+   "Barangay": "Luinab",
+   "Purok": "Luinab Purok 3",
+   "Coordinates": [],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Dianal",
+   "Day": "Friday",
+   "Barangay": "Luinab",
+   "Purok": "Upper Hinaplanon",
+   "Coordinates": [8.255822, 124.268952],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Dianal",
+   "Day": "Friday",
+   "Barangay": "Pala-o",
+   "Purok": "Pala-o Market",
+   "Coordinates": [8.226228, 124.243474],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Dianal",
+   "Day": "Saturday",
+   "Barangay": "",
+   "Purok": "",
+   "Coordinates": [],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Dianal",
+   "Day": "Sunday",
+   "Barangay": "",
+   "Purok": "",
+   "Coordinates": [],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Macario",
+   "Day": "Monday",
+   "Barangay": "",
+   "Purok": "",
+   "Coordinates": [],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Macario",
+   "Day": "Tuesday",
+   "Barangay": "Hinaplanon",
+   "Purok": "Bayug",
+   "Coordinates": [8.249262, 124.250322],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Macario",
+   "Day": "Tuesday",
+   "Barangay": "Hinaplanon",
+   "Purok": "Neopoda",
+   "Coordinates": [8.248399, 124.253483],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Macario",
+   "Day": "Tuesday",
+   "Barangay": "Hinaplanon",
+   "Purok": "Catayas",
+   "Coordinates": [8.245713, 124.255661],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Macario",
+   "Day": "Tuesday",
+   "Barangay": "Hinaplanon",
+   "Purok": "Seabreeze",
+   "Coordinates": [8.245880, 124.258018],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Macario",
+   "Day": "Wednesday",
+   "Barangay": "Hinaplanon",
+   "Purok": "Dao Hinaplanon Tulay",
+   "Coordinates": [8.253861, 124.264201],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Macario",
+   "Day": "Wednesday",
+   "Barangay": "Hinaplanon",
+   "Purok": "Cabugason",
+   "Coordinates": [8.250182, 124.266656],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Macario",
+   "Day": "Wednesday",
+   "Barangay": "Hinaplanon",
+   "Purok": "Gerona",
+   "Coordinates": [8.253764, 124.260541],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Macario",
+   "Day": "Wednesday",
+   "Barangay": "Hinaplanon",
+   "Purok": "Green Village",
+   "Coordinates": [8.251560, 124.259744],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Macario",
+   "Day": "Thursday",
+   "Barangay": "Hinaplanon",
+   "Purok": "Highway NorthBound Terminal to Catayas",
+   "Coordinates": [8.243814, 124.258711],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Macario",
+   "Day": "Thursday",
+   "Barangay": "Hinaplanon",
+   "Purok": "Purok 6B",
+   "Coordinates": [8.241956, 124.255997],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Macario",
+   "Day": "Friday",
+   "Barangay": "Hinaplanon",
+   "Purok": "Bayug",
+   "Coordinates": [8.249262, 124.250322],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Macario",
+   "Day": "Friday",
+   "Barangay": "Hinaplanon",
+   "Purok": "Neopoda",
+   "Coordinates": [8.248399, 124.253483],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Macario",
+   "Day": "Friday",
+   "Barangay": "Hinaplanon",
+   "Purok": "Catayas",
+   "Coordinates": [8.245713, 124.255661],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Macario",
+   "Day": "Friday",
+   "Barangay": "Hinaplanon",
+   "Purok": "Seabreeze",
+   "Coordinates": [8.245880, 124.258018],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Macario",
+   "Day": "Saturday",
+   "Barangay": "Hinaplanon",
+   "Purok": "Dao Hinaplanon Tulay",
+   "Coordinates": [8.253861, 124.264201],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Macario",
+   "Day": "Saturday",
+   "Barangay": "Hinaplanon",
+   "Purok": "Cabugason",
+   "Coordinates": [8.250182, 124.266656],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Macario",
+   "Day": "Saturday",
+   "Barangay": "Hinaplanon",
+   "Purok": "Gerona",
+   "Coordinates": [8.253764, 124.260541],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Macario",
+   "Day": "Saturday",
+   "Barangay": "Hinaplanon",
+   "Purok": "Green Village",
+   "Coordinates": [8.251560, 124.259744],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Macario",
+   "Day": "Sunday",
+   "Barangay": "",
+   "Purok": "",
+   "Coordinates": [],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Neñiza",
+   "Day": "Monday",
+   "Barangay": "",
+   "Purok": "",
+   "Coordinates": [],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Neñiza",
+   "Day": "Tuesday",
+   "Barangay": "",
+   "Purok": "",
+   "Coordinates": [],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Neñiza",
+   "Day": "Wednesday",
+   "Barangay": "Ubaldo Laya",
+   "Purok": "Ubaldo Laya Proper",
+   "Coordinates": [8.224457, 124.245428],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Neñiza",
+   "Day": "Wednesday",
+   "Barangay": "Pala-o",
+   "Purok": "Pala-o Market",
+   "Coordinates": [8.226194, 124.243479],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Neñiza",
+   "Day": "Thursday",
+   "Barangay": "Saray-Tibanga",
+   "Purok": "Canaway",
+   "Coordinates": [8.240161, 124.240723],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Neñiza",
+   "Day": "Friday",
+   "Barangay": "Ubaldo Laya",
+   "Purok": "Greenhills",
+   "Coordinates": [8.224679, 124.249730],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Neñiza",
+   "Day": "Friday",
+   "Barangay": "Ubaldo Laya",
+   "Purok": "Greenfield",
+   "Coordinates": [8.226789, 124.241589],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Neñiza",
+   "Day": "Friday",
+   "Barangay": "Pala-o",
+   "Purok": "Pala-o Market",
+   "Coordinates": [8.226194, 124.243479],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Neñiza",
+   "Day": "Saturday",
+   "Barangay": "Pala-o",
+   "Purok": "Kaplag",
+   "Coordinates": [8.219255, 124.259024],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Neñiza",
+   "Day": "Saturday",
+   "Barangay": "Ubaldo Laya",
+   "Purok": "Merila",
+   "Coordinates": [8.210395, 124.243883],
+   "Plate No.": ""
+ },
+ {
+   "Driver": "Neñiza",
+   "Day": "Saturday",
+   "Barangay": "Ubaldo Laya",
+   "Purok": "Ubaldo Laya Proper",
+   "Coordinates": [8.224457, 124.245428],
+   "Plate No.": ""
+ }
+]

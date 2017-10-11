@@ -1,0 +1,28 @@
+[{
+   "Day":"Monday",
+   "brgy":["Bagong Silang","Del Carmen","Hinaplanon","Mahayahay","Santiago","Sta. Elena","Sto. Rosario","Tubod 1","Tubod 2","Tubod 3","Ubaldo Laya","",""]
+},
+{
+   "Day":"Tuesday",
+   "brgy":["Abuno","Buru-un","Dalipuga","Ditucalan","Poblacion","Saray","Tipanoy","","","","","",""]
+ },
+{
+   "Day":"Wednesday",
+   "brgy":["Bagong Silang","Del Carmen","Hinaplanon","Kiwalan","Mahayahay","Maria Cristina","San Miguel","Sta. Elena","Sto. Rosario","Suarez","Tambacan","Tubod 1","Ubaldo Laya"]
+ },
+{
+   "Day":"Thursday",
+   "brgy":["Abuno","Acmac","Buru-un","Dalipuga","Ditucalan","Luinab","Poblacion","Saray","Tibanga","Tipanoy","Tomas Cabili","Upper Hinaplanon","Villaverde"]
+ },
+{
+   "Day":"Friday",
+   "brgy":["Kiwalan","Maria Cristina","Pala-O","Puga-An","San Miguel","Sta. Filomena","Suarez","Tambacan","","","","",""]
+ },
+{
+   "Day":"Saturday",
+   "brgy":["Acmac","Luinab","Poblacion","Santiago","Tibanga","Tomas Cabili","Tubod 2","Tubod 3","Upper Hinaplanon","Villaverde","","",""]
+ },
+{
+   "Day":"Sunday",
+   "brgy":["Pala-O","Puga-An","Sta. Filomena","","","","","","","","","",""]
+}]

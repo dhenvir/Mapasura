@@ -1,0 +1,30 @@
+[
+    {
+        "Indicator":"Picked by Garbage Truck",
+        "Value": 52.84
+    },
+    {
+        "Indicator":"Burning",
+        "Value": 29.43
+    },
+    {
+        "Indicator":"Dumping in Individual Pit (Not Burned)",
+        "Value": 8.77
+    },
+    {
+        "Indicator":"Composting (Later Used as Fertilizer)",
+        "Value": 4.52
+    },
+    {
+        "Indicator":"Burying",
+        "Value": 2.33
+    },
+    {
+       "Indicator":" Feeding to Animals",
+       "Value": 1.29
+    },
+    {
+        "Indicator":"Others",
+        "Value": 0.81
+    }
+]

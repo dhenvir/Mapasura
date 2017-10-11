@@ -1,0 +1,16 @@
+.titolo{
+    color: white;
+    padding: 1vh;
+    margin: 0;
+    font-size: 4vh;
+}
+
+.pnlbdy{
+    background-color:aliceblue;
+    min-height: 81.5vh;
+    margin: 0;
+}
+
+.canvasjs-chart-credit {
+   display: none;
+}

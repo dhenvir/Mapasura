@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <!--|zzzzzzzzzzzzzzzzzzzz|My Bootstrap source|zzzzzzzzzzzzzzzzzzzz-->
+        <link rel="stylesheet" href="myCSS/graphs.css">
+        <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+        <script src="jquery/jquery-3.2.1.min.js"></script>
+        <script src="bootstrap/js/bootstrap.min.js"></script>
+        <script src="canvasJS/jquery.canvasjs.min.js"></script>
+    </head>
+    
+    <body style="overflow: hidden; background-color:darkslategrey;">
+        <div class="panel-group" id="accordion">
+<!--           <div class="panel" style="background-color: darkcyan; margin: 0.5vh;">
+            <div data-toggle="collapse" data-parent="#accordion" href="#collapse1" style="display: flex; align-items: center;">
+              <p class="titolo">Garbage Collection Schedule</p>
+            </div>
+            <div id="collapse1" class="panel-collapse collapse in">
+                <div class="pnlbdy">
+                    <div id="chart1" style="height: 70vh; background-color: white;">
+                      <svg></svg>
+                    </div>
+                </div>
+            </div>
+          </div> -->
+          <div class="panel" style="background-color: darkcyan; margin: 0.5vh;">
+            <div data-toggle="collapse" data-parent="#accordion" href="#collapse2" style="display: flex; align-items: center;">
+              <p class="titolo">Garbage Collection Schedule as of April 2017</p>
+            </div>
+            <div id="collapse2" class="panel-collapse collapse in">
+                <div class="pnlbdy">
+                    <div id="chart2" style="height: 73.5vh; background-color: white;">
+                    </div>
+                    <div style="height: 8.5vh; background-color: white; font-size: 3vw;">
+<!--                      <button type="button" class="btn btn-info btn-xs" data-toggle="modal" data-target="#myModal">View in Choropleth Map</button>-->
+                        Source:
+                      <a href="https://www.facebook.com/LGUILIGANCITY/photos/a.1656718101259841.1073741828.1651455051786146/1843403582591291/?type=3&theater" target="_blank"> 
+                        LGU Iligan City
+                      </a>
+                </div>
+                </div>
+            </div>
+          </div>
+            
+            <!-- Modal -->
+<!--
+<div id="myModal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+
+     Modal content
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Modal Header</h4>
+      </div>
+      <div class="modal-body">
+        <p>Some text in the modal.</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+
+  </div>
+</div>
+-->
+            
+          <div class="panel" style="background-color: darkcyan; margin: 0.5vh;">
+            <div data-toggle="collapse" data-parent="#accordion" href="#collapse3" style="display: flex; align-items: center;">
+              <p class="titolo">Types of Garbage Disposal</p>
+            </div>
+            <div id="collapse3" class="panel-collapse collapse" onpageshow="drawPie()">
+                <div class="pnlbdy">
+                    <div id="chart3" style="height: 73.5vh; background-color: white;">
+                    </div>
+                    <div style="height: 8.5vh; background-color: white; font-size: 3vw; padding: 4vh;">
+                      Source:
+                      <a href="http://rpo10.popcom.gov.ph/images/TypeOfGarbageDisposalILIGAN.xls">
+                        PHL Philippinnes_NSCB RSET 2007
+                      </a></div>
+                </div>
+            </div>
+          </div>
+        </div>
+    </body>
+    <script src="myJS/graphs.js"></script>
+</html>
